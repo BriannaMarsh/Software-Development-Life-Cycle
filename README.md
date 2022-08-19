@@ -1,1 +1,5 @@
 # Software-Development-Life-Cycle
+
+In this Software Development Life Cycle course I have learned that the Agile Method seems to be more useful than the Waterfall method. With using Agile, the Scrum Team utilizes user stories. These user stories help the Scrum Team to see exactly what the client wants out of the project, the time frame for the project, and the level of importance. Each person on the team will have a special assignment, that will be on the user story, to help to contribute to the overall success of the project. I approach developing programs with an open mind. As a developer, if it is befitting  to code in a certain language, then I will do that. Whichever is the best method for the overall success of the team is the method and language that I will use. To be a good team member in Software Development means to be open to change, a great communicator, a great leader, a great teacher, and a great listener. All of this together will make for a smooth and successful project!
+
+BriannaMarsh.
